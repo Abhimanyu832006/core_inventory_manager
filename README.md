@@ -1,3 +1,4 @@
+Live WebSite at: https://coreinventory.shop
 # CoreInventory
 
 A modular, full-stack Inventory Management System built to replace manual registers and Excel sheets with a centralized, real-time web application.

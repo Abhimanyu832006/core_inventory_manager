@@ -1,6 +1,6 @@
 class AppConstants {
   // ── Change this to your homelab IP when running on network ──
-  static const String apiBaseUrl = 'http://192.168.1.9:8000';
+  static const String apiBaseUrl = 'https://api.coreinventory.shop';
 
   // ── Token storage key ──
   static const String tokenKey = 'ci_access_token';
